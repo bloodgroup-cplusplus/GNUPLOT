@@ -9,3 +9,7 @@ Detailed Instructions:
 ** There is also another package which is dependent which is dependent on GNUPLOT and installing it alongwith GNUPLOT would be a good add-on
 
 sudo apt-get install -y gnuplot-nox
+
+
+also follow the official documentation of GNUPLOT
+http://www.gnuplot.info/documentation.html
